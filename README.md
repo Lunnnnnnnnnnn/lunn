@@ -1,1 +1,2 @@
 # lunn
+console.lo("ola");
